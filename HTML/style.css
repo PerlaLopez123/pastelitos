@@ -1,0 +1,11 @@
+header {
+    background-image: url('fondo.png');
+    padding: 20px 0;
+  }
+  
+.catalogo{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
